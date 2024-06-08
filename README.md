@@ -1,2 +1,2 @@
-# Meliora
+# Pathway-Pal
 An ai to help refugees make the best of their situation...
